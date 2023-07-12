@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yating Gong"
   avatar           : "yating.jpg"
-  bio              : "305 Taylor Hall,          427 Lorch St,Madison,WI 53706"
+  bio              : "305 Taylor Hall," +"\n"+ "427 Lorch St," +"\n"+"Madison,WI 53706"
   email            :
 
 
