@@ -27,6 +27,19 @@ Education
 
 * B.A. in Agriculture China Agricultural University	2012
 
+Selected presentations
+======
+* “The Role of Animal Breeding in Productivity Growth: Evidence from Wisconsin Dairy Farms”
+Agricultural & Applied Economics Association (AAEA) annual meeting (virtual), Aug 2021.
+
+Teaching experience
+======
+* Department of Math, UW-Madison	 2019-2020
+  * Teaching Assistant of MATH 320: Linear Algebra and Differential Equations
+
+* Department of Math, UW-Madison	 2018
+  * Teaching Assistant of MATH 114: Algebra and Trigonometry
+
 Work experience
 ======
 * La Follette School of Public Affairs, UW-Madison	08/2020-Present
