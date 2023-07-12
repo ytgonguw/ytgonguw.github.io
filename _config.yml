@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Yating Gong"
   avatar           : "yating.jpg"
-  bio              : "Department of Agricultural & Applied Economics, University of Wisconsin-Madison"
+  bio1             : "305 Taylor Hall"
+  bio2             : "427 Lorch St"
+  bio 3            : "Madison, WI 53706"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
