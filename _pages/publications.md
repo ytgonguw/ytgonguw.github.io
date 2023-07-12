@@ -12,3 +12,8 @@ author_profile: true
 * Mao, Shiping and Gong, Yating. 2017. “The investment system in Japan’s agricultural infrastructure construction: evolution, characteristics and enlightenment,” China Soft Science, 10: 1-11.
  
 * Mao, Shiping, Gong, Yating, and Liu, Fujiang. 2017. “UK agricultural subsidy policies and their implications to China,” Research of Agricultural Modernization, 38(01): 31-37.
+
+Work in progress
+=================
+*	The Impact of Air Lead Pollution on Infant Mortality, with Sheldon Du and Yang Wang.
+*	Does Child Care Subsidy Harm the Development of Children? With Susan Averett and Yang Wang.
