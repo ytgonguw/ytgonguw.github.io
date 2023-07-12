@@ -16,8 +16,8 @@ Basic information
 Education
 ======
 * Ph.D. Candidate in Agricultural & Applied Economics，University of Wisconsin-Madison	May 2024(expected)
-* Job Market Paper: Does in-utero exposure to cigarette tax improve health permanently?
-* Primary Fields: Agricultural Economics, Health Economics & Environmental Economics
+  * Job Market Paper: Does in-utero exposure to cigarette tax improve health permanently?
+  * Primary Fields: Agricultural Economics, Health Economics & Environmental Economics
  
 * M.A. in Economics University of Wisconsin-Madison	2018
 
