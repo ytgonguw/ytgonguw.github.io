@@ -10,7 +10,7 @@ redirect_from:
 Basic information 
 ======
 * Address: Department of Agricultural & Applied Economics, University of Wisconsin-Madison 427 Lorch St,
-           315 Taylor Hall, Madison, WI1, USA 53706
+           315 Taylor Hall, Madison, WI, USA 53706
 * E-mail: ygong42@wisc.edu
 
 Education
