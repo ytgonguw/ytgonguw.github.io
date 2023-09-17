@@ -11,49 +11,61 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Candidate in Agricultural & Applied Economics，University of Wisconsin-Madison	May 2024(expected)
+  * Job Market Paper: Does in-utero exposure to cigarette tax improve adult health?
+  * Primary Fields: Agricultural Economics, Health Economics & Environmental Economics
+ 
+* M.A. in Economics University of Wisconsin-Madison	2018
+
+* M.A. in Agricultural Economics and Management Chinese Academy of Agricultural Sciences	2015
+
+* B.A. in Economics (Double Degree) Peking University	2015
+
+* B.A. in Agriculture China Agricultural University	2012
+
+Selected presentations
+======
+* “The Role of Animal Breeding in Productivity Growth: Evidence from Wisconsin Dairy Farms”
+Agricultural & Applied Economics Association (AAEA) annual meeting (virtual), Aug 2021.
+
+Teaching experience
+======
+* Department of Math, UW-Madison	 2019-2020
+  * Teaching Assistant of MATH 320: Linear Algebra and Differential Equations
+
+* Department of Math, UW-Madison	 2018
+  * Teaching Assistant of MATH 114: Algebra and Trigonometry
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* La Follette School of Public Affairs, UW-Madison	08/2020-Present
+  * Research Assistant of Professor Yang Wang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Chinese Academy of Agricultural Science	09/2015-08/2016
+  * Research Assistant of Researcher Shiping Mao
   
-Skills
+Language and Computer Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: English (fluent), Mandarin (native)
+* Professional skills: STATA, R, Latex, SPSS, Matlab (basic)
 
-Publications
+References
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Prof. Xiaodong Du (Advisor)
+  * Department of Agricultural & Applied Economics
+  * University of Wisconsin-Madison
+  * Email: xdu23@wisc.edu 
+
+
+* Prof. Yang Wang
+  * La Follette School of Public Affairs
+  * University of Wisconsin-Madison
+  * Email: yang.wang@lafollette.wisc.edu
+
+
+* Prof. Susan Averett
+  *  Charles A. Dana Professor of Economics
+  *  Lafayette College
+  * E mail: averetts@lafayette.edu
+
