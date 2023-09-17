@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * Hutchins, Jared, Gong, Yating, and Du, Xiaodong. 2023. “ The Role of Animal Breeding in Productivity Growth: Evidence from Wisconsin Dairy Farms.” American Journal of Agricultural Economics 1– 20. https://doi.org/10.1111/ajae.12374
-<u><a href="{{[author.googlescholar](https://doi.org/10.1111/ajae.12374)}}">my Google Scholar profile</a>.</u>
+<u><a href="{{[https://doi.org/10.1111/ajae.12374]}}">Link to Paper</a>.</u>
 
 * Gong, Yating. 2023. “Does In-utero Exposure to Cigarette Tax Improve Health Permanently?” Working Paper. [JOB MARKET PAPER]
 
