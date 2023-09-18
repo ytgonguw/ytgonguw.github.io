@@ -14,4 +14,4 @@ My job market paper, titled “Does early-life exposure to cigarette taxes impro
 
 For the most up-to-date version of my CV, please click [here](https://ytgonguw.github.io/files/CV.pdf).
 
-Contact Info: ygong42@wisc.edu
+Contact Info: [ygong42@wisc.edu](mailto:ygong42@wisc.edu)
