@@ -14,4 +14,4 @@ My job market paper, titled “Does in utero exposure to cigarette taxes improve
 
 For the most up-to-date version of my CV, please click [here](https://ytgonguw.github.io/files/CV.pdf).
 
-Contact Info: <a href=mailto:“ygong42@wisc.edu”>ygong42@wisc.edu</a>
+Contact Info: [ygong42@wisc.edu](ygong42@wisc.edu)    <a href=mailto:“ygong42@wisc.edu”>ygong42@wisc.edu</a>
