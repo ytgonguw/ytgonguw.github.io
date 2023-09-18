@@ -7,69 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Basic information 
-======
-* Address: Department of Agricultural & Applied Economics, University of Wisconsin-Madison 427 Lorch St,
-           315 Taylor Hall, Madison, WI, USA 53706
-* E-mail: ygong42@wisc.edu
 
-Education
-======
-* Ph.D. Candidate in Agricultural & Applied Economics，University of Wisconsin-Madison	May 2024(expected)
-  * Job Market Paper: Does in-utero exposure to cigarette tax improve health permanently?
-  * Primary Fields: Agricultural Economics, Health Economics & Environmental Economics
- 
-* M.A. in Economics University of Wisconsin-Madison	2018
+I am a Ph.D. Candidate in the Department of Agricultural and Applied Economics at the University of Wisconsin-Madison. My research interests are at the intersection of health economics, public policy, and agricultural economics. I am on the 2023-2024 job market.
 
-* M.A. in Agricultural Economics and Management Chinese Academy of Agricultural Sciences	2015
+My job market paper, titled “Does in utero exposure to cigarette taxes improve adult health?”, explores the impact of  early life exposure of cigarette taxes on the long-term health capital accumulation and the underlying mechanisms. 
 
-* B.A. in Economics (Double Degree) Peking University	2015
+For the most up-to-date version of my CV, please click here.
 
-* B.A. in Agriculture China Agricultural University	2012
-
-Selected presentations
-======
-* “The Role of Animal Breeding in Productivity Growth: Evidence from Wisconsin Dairy Farms”
-Agricultural & Applied Economics Association (AAEA) annual meeting (virtual), Aug 2021.
-
-Teaching experience
-======
-* Department of Math, UW-Madison	 2019-2020
-  * Teaching Assistant of MATH 320: Linear Algebra and Differential Equations
-
-* Department of Math, UW-Madison	 2018
-  * Teaching Assistant of MATH 114: Algebra and Trigonometry
-
-Work experience
-======
-* La Follette School of Public Affairs, UW-Madison	08/2020-Present
-  * Research Assistant of Professor Yang Wang
-
-* Chinese Academy of Agricultural Science	09/2015-08/2016
-  * Research Assistant of Researcher Shiping Mao
-  
-Language and Computer Skills
-======
-* Languages: English (fluent), Mandarin (native)
-* Professional skills: STATA, R, Latex, SPSS, Matlab (basic)
-
-References
-======
-
-* Prof. Xiaodong Du (Advisor)
-  * Department of Agricultural & Applied Economics
-  * University of Wisconsin-Madison
-  * Email: xdu23@wisc.edu 
-
-
-* Prof. Yang Wang
-  * La Follette School of Public Affairs
-  * University of Wisconsin-Madison
-  * Email: yang.wang@lafollette.wisc.edu
-
-
-* Prof. Susan Averett
-  *  Charles A. Dana Professor of Economics
-  *  Lafayette College
-  * E mail: averetts@lafayette.edu
-
+Contact Info: ygong42@wisc.edu
