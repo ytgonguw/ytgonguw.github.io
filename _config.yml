@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yating Gong Account"
+title                    : "Yating Gong"
 title_separator          : "-"
 name                     : &name "Yating Gong"
 description              : &description "personal description"
