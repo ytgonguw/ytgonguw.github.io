@@ -14,6 +14,6 @@ My job market paper is "Taxing for Health: The Enduring Benefits of In-Utero Cig
 
 For my job market paper, please click [here](https://ytgonguw.github.io/files/JMP_Yating_AAE.pdf).
 
-For my CV, please click [here](https://ytgonguw.github.io/files/CV3.pdf).
+For my CV, please click [here](https://ytgonguw.github.io/files/CV.pdf).
 
 Contact Info: [ygong42@wisc.edu](mailto:ygong42@wisc.edu)
