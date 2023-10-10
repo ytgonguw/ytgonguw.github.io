@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. Candidate in Agricultural & Applied Economics，University of Wisconsin-Madison	May 2024(expected)
-  * Job Market Paper: Does early-life exposure to cigarette taxes improve long term health outcomes?
+  * Job Market Paper: Taxing for Health: The Enduring Benefits of In-Utero Cigarette Tax Exposure on Adult Health
   * Primary Fields: Health Economics, Public Policy, Agricultural Economics
  
 * M.A. in Economics University of Wisconsin-Madison	2018
