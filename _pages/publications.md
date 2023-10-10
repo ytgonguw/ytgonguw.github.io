@@ -16,4 +16,4 @@ Work in progress
 =================
 *   Taxing for Health: The Enduring Benefits of In-Utero Cigarette Tax Exposure on Adult Health. [JOB MARKET PAPER] 
 *	The Impact of Air Lead Pollution on Infant Mortality, with Sheldon Du and Yang Wang.
-*	Health Effects of Exposure to Child Care subsidies,  With Susan Averett and Yang Wang.
+*	Health Effects of Exposure to Child Care Subsidies,  With Susan Averett and Yang Wang.
