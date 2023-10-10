@@ -12,6 +12,6 @@ I am a Ph.D. Candidate in the Department of Agricultural and Applied Economics a
 
 My job market paper, titled “Does early-life exposure to cigarette taxes improve long-term health outcomes?”, explores the impact of in utero exposure of cigarette taxes on the long-term health capital accumulation and the underlying mechanisms. 
 
-For the most up-to-date version of my CV, please click [here](https://ytgonguw.github.io/files/CV.pdf).
+For the most up-to-date version of my CV, please click [here](https://ytgonguw.github.io/files/CV3.pdf).
 
 Contact Info: [ygong42@wisc.edu](mailto:ygong42@wisc.edu)
