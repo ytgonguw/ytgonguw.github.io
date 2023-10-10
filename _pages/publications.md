@@ -4,6 +4,7 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+
 Working Papers
 =================
 *   Taxing for Health: The Enduring Benefits of In-Utero Cigarette Tax Exposure on Adult Health. [JOB MARKET PAPER]
