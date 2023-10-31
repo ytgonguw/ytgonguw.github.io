@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the Department of Agricultural and Applied Economics at the University of Wisconsin-Madison. My research interests are at the intersection of health economics, public policy, and agricultural economics. I am on the 2023-2024 job market.
+I am a Ph.D. Candidate in the Department of Agricultural and Applied Economics at the University of Wisconsin-Madison. My research interests are at the intersection of health economics, public policy, environmental economics and production economics. I am on the 2023-2024 job market.
 
 My job market paper is "Taxing for Health: The Enduring Benefits of In-Utero Cigarette Tax Exposure on Adult Health". It explores the lasting effects of in utero exposure to cigarette taxes on long-term health development and the underlying mechanisms. 
 
