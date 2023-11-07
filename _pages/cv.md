@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D. Candidate in Agricultural & Applied Economics，University of Wisconsin-Madison	May 2024(expected)
-  * Job Market Paper: Taxing for Health: The Enduring Benefits of In-Utero Cigarette Tax Exposure on Adult Health
-  * Primary Fields: Health Economics, Public Policy, Agricultural Economics
  
 * M.A. in Economics University of Wisconsin-Madison	2018
 
@@ -38,16 +36,17 @@ Teaching experience
 
 Work experience
 ======
-* La Follette School of Public Affairs, UW-Madison	08/2020-Present
-  * Research Assistant of Professor Yang Wang
+* La Follette School of Public Affairs, UW-Madison	
+  * Research Assistant for Professor Yang Wang 2020-Present
+  * Program Assistant for Professor Sheldon Du 2020
 
-* Chinese Academy of Agricultural Science	09/2015-08/2016
-  * Research Assistant of Researcher Shiping Mao
+* Chinese Academy of Agricultural Science	
+  * Research Assistant for Researcher Shiping Mao 2015-2016
   
 Language and Computer Skills
 ======
 * Languages: English (fluent), Mandarin (native)
-* Professional skills: STATA, R, Latex, SPSS, Matlab (basic)
+* Professional skills: STATA, Python
 
 References
 ======
