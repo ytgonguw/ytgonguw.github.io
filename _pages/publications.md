@@ -7,10 +7,7 @@ author_profile: true
 
 Working Papers
 =================
-*   Taxing for Health: The Enduring Benefits of In-Utero Cigarette Tax Exposure on Adult Health. [JOB MARKET PAPER]
-  [Download](https://ytgonguw.github.io/files/JMP_Yating_AAE.pdf)
-
-*	The Impact of Air Lead Pollution on Infant Mortality, with Sheldon Du and Yang Wang.
+* Taxing for Health: The Enduring Benefits of In-Utero Cigarette Tax Exposure on Adult Health. [JOB MARKET PAPER]
   
 *	Health Effects of Exposure to Child Care Subsidies,  With Susan Averett and Yang Wang.
 
